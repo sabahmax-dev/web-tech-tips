@@ -106,7 +106,7 @@ To easily visualize whats being rendered activate the __Paint Flashing__ feature
 ### Performance measurement  
 You can add performance markers in your code that are then visualy displayed when doing a performance recording.
 
-[View code example](./react/performances/LoadingPerformance.tsx)
+[View code example](./react/src/performances/LoadingPerformance.tsx)
 
 ![Performance measurement](./know-your-browser/performance-measuring.PNG)
 
